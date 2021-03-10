@@ -18,3 +18,13 @@ das
 1. dadsa
 2. asdasd
 3. asdasd
+
+*Hello*
+
+**zasdasd**
+
+`dsasdsa`
+
+```c
+#include <stdio.h>
+```
